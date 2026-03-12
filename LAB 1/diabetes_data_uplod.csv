@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Age,Glucose,BloodPressure,Insulin,BMI\
+45,150,80,130,28.5\
+34,120,75,100,24.1\
+50,180,85,160,31.2\
+29,110,70,90,22.8\
+60,200,90,180,35.4\
+41,140,78,120,26.7\
+55,170,88,150,32.1\
+38,125,76,110,25.3\
+47,160,82,140,29.8\
+31,115,72,95,23.5\
+52,175,86,155,33.0\
+36,130,74,105,24.9}
